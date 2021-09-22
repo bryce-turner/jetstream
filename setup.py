@@ -39,7 +39,7 @@ setup(
         'networkx',
         'pyyaml',
         'ulid-py',
-        'jinja2',
+        'jinja2>=3.0.1',
         'filelock',
         'confuse'
     ],
